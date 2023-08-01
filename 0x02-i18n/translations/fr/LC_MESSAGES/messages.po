@@ -6,17 +6,10 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
-<<<<<<< HEAD
-"Report-Msgid-Bugs-To: wkabiru19@gmail.com\n"
-"POT-Creation-Date: 2022-05-10 06:39+0100\n"
-"PO-Revision-Date: 2023-08-01 12:44+0000\n"
-"Last-Translator: Wilson Kabiru <wkabiru19@gmail.com>\n"
-=======
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2022-01-07 16:41+0000\n"
 "PO-Revision-Date: 2022-01-04 17:30+0000\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
->>>>>>> 5ddc4ac2085ae88598f91559a7e7bc30317c7464
 "Language: fr\n"
 "Language-Team: fr <LL@li.org>\n"
 "Plural-Forms: nplurals=2; plural=(n > 1)\n"
